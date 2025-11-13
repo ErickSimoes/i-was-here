@@ -1,4 +1,4 @@
-# Seu nome completo
+# Vinicius de Souza Barbosa
 
 ## Curso e período
 
