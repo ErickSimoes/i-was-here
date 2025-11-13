@@ -32,6 +32,7 @@
 - Python - exemplo
 - JavaScript - exemplo
 - Go - @phpedruo
+- C - @beatrizloyola
 
 ---
 
