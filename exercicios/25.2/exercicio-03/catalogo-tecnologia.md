@@ -10,6 +10,7 @@
 
 - VS Code - exemplo
 - IntelliJ IDEA - exemplo
+- Arduino IDE - @venici-o
 
 ---
 
