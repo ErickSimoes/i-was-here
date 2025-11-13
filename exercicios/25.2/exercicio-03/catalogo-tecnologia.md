@@ -32,6 +32,7 @@
 - Python - exemplo
 - JavaScript - exemplo
 - Go - @phpedruo
+- Assembly (Linguagem de programação de maior nível existente kk) - @pedrovcb
 
 ---
 
