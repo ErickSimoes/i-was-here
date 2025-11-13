@@ -1,13 +1,15 @@
 # Seu nome completo
 
 ## Curso e período
-    Ex.: Ciência da Computação – 1º período
-    esse curso mesmo e esse período mesmo
+
+Ex.: Ciência da Computação – 1º período
 
 ## Áreas de interesse em tecnologia
-    - Video Games
-    - Robos
-    - Neuralink
+
+- Exemplo 1
+- Exemplo 2
+- Exemplo 3
 
 ## Uma curiosidade sobre você
-    Se inscreva no meu canal do youtube :>
+
+Se inscreva no meu youtube :>
