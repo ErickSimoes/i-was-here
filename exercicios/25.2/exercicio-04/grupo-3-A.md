@@ -1,31 +1,32 @@
-# Nome do Projeto do Grupo <id>
+# AccessVolt - Grupo 3
 
 ## Integrantes
-- Nome 1 (@usuario1)
+
+- Beatriz Loyola (@beatrizloyola)
 - Nome 2 (@Gabrielorrico)
-- Nome 3 (@usuario3)
-- ...
 
 ## Visão Geral do Projeto
-Escreva aqui 4–6 frases explicando o projeto, sua motivação e seus objetivos.
+
+O AccessVolt é um detector de tensão portátil e acessível que oferece feedback tátil e sinais sonoros para garantir uma operação confiável, aumentando a segurança sem exigir habilidades motoras finas. O trabalhador usaria o artefato aliado a uma luva de proteção para medir a tensão em áreas de alto risco.
 
 ## Público-Alvo
-Profissionais da área automotiva, Eletricistas e técnicos, Entusiastas de DIY, Qualquer pessoa que trabalhe com eletricidade.
+
+Profissionais da área de telecomunicação, eetricistas e técnicos, especialmente aqueles com deficiências físicas e cognitivas.
 
 ## Funcionalidades Principais
-- Ao chegar perto de de fios de alta tensão a luva acende LEDs que alertam quantidades perigosas de tensão
-- Ao chegar perto de de fios de alta tensão a luva faz um barulho irritante que alerta quando há quantidades perigosas de tensão
-- Ao chegar perto de de fios de alta tensão a luva vibra alertando quando há quantidades perigosas de tensão
+
+- Detecção de alta tensão
+- Sinalização sonora, visual e vibratória
+- Utilização com luvas protetoras
 
 ---
 
 ## Contribuições Individuais
 
 ### Contribuição de @Gabrielorrico
-Ajudar na montagem e em possíveis testes pois desde pequeno tive a vontade de mexer com coisas assim.
 
-### Contribuição de @usuario2
-(Preenchido pelo próximo integrante)
+Ajudar na montagem e nos testes, pois desde pequeno tive a vontade de mexer com coisas assim.
 
-### Contribuição de @usuario3
-(Preenchido pelo próximo integrante)
+### Contribuição de @beatrizloyola
+
+Desenvolvimento do código do Arduino que fará os sensores e o Arduino funcionarem em conjunto. Montagem e apresentação dos slides no SR2. Gerenciamento das tarefas.
