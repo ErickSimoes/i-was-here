@@ -28,15 +28,19 @@ Crie um arquivo Markdown com um pequeno perfil seu.
    # Seu nome completo
 
    ## Curso e período
-   Ex.: Ciência da Computação – 1º período
+
+   Ciência da Computação - 1º período
 
    ## Áreas de interesse em tecnologia
+   
    - Exemplo 1
    - Exemplo 2
    - Exemplo 3
 
    ## Uma curiosidade sobre você
+   
    Escreva 2–3 frases com algo que você gostaria de compartilhar.
+   
    ```
 
 4. Faça commit e push:

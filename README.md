@@ -51,7 +51,7 @@ Ao final desta atividade, você deverá ser capaz de:
 3. No seu computador, faça o **clone** do seu fork:
 
    ```bash
-   git clone https://github.com/ErickSimoes/i-was-here.git
+   git clone https://github.com/<seu-nome-de-usuário>/i-was-here.git
    cd i-was-here
    ```
 
