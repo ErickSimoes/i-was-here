@@ -7,7 +7,7 @@ Ciência da Computação - 1º período
 ## Áreas de interesse em tecnologia
 
 - Cybersecurity
-- Computação quântica
+- Computação Quântica
 - Backend
 
 ## Uma curiosidade sobre você
