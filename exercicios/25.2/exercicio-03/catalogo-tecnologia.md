@@ -31,6 +31,7 @@
 
 - Python - exemplo
 - JavaScript - exemplo
+- assembly - @JuanRiquelme662
 - Go - @phpedruo
 
 ---
