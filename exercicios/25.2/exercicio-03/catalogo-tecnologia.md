@@ -10,6 +10,7 @@
 
 - VS Code - exemplo
 - IntelliJ IDEA - exemplo
+- PyCHarm
 
 ---
 
@@ -17,6 +18,7 @@
 
 - Git - exemplo
 - Figma - exemplo
+- Docker
 
 ---
 
@@ -24,6 +26,7 @@
 
 - GitHub - exemplo
 - GitLab - exemplo
+- Azure DevOps
 
 ---
 
@@ -32,6 +35,7 @@
 - Python - exemplo
 - JavaScript - exemplo
 - Go - @phpedruo
+- C++
 
 ---
 
@@ -39,6 +43,7 @@
 
 - CESAR - exemplo
 - CESAR School - exemplo
+- Neurotech
 
 ---
 
@@ -46,3 +51,4 @@
 
 - Unity - exemplo
 - React - exemplo
+- Django
