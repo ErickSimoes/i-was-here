@@ -50,3 +50,4 @@
 - Unity - exemplo
 - React - exemplo
 - Jungle - sofiavillelav@gmail.com
+- Django - @gabrielpferreira15
