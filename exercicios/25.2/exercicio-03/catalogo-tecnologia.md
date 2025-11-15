@@ -17,6 +17,7 @@
 
 - Git - exemplo
 - Figma - exemplo
+- GitHub - @ygorfht
 
 ---
 
