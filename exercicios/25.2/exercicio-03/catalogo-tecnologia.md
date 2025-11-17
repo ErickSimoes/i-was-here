@@ -39,6 +39,7 @@
 - C - @beatrizloyola
 - Lua (Roblox) - @LarissaGiovanna
 - Julia (EXISTE SIM ESSA LINGUAGEM DE PROGRAMAÇÃO) - @juliatenoriocalado
+- Java -@Karollynesanba
 
 ## Empresas do ecossistema (Recife / Porto Digital)
 
