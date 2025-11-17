@@ -35,6 +35,7 @@
 - JavaScript - exemplo
 - PHP (orientada à objetos) - @RiosGabri
 - Go - @phpedruo
+- Cobol - @doctahW
 - C++ - @Parlatore (Carraly)
 - Assembly (Linguagem de programação de maior nível existente kk) - @pedrovcb
 - c++ - @joaomafraa
