@@ -28,7 +28,6 @@
 - GitLab - exemplo
 - Arduino - @marceloandfonseca 
 
-
 ---
 
 ## Linguagens de Programação
@@ -37,6 +36,7 @@
 - JavaScript - exemplo
 - PHP (orientada à objetos) - @RiosGabri
 - Go - @phpedruo
+- C# - @arthurdalmeida
 - Cobol - @doctahW
 - C++ - @Parlatore (Carraly)
 - Assembly (Linguagem de programação de maior nível existente kk) - @pedrovcb
@@ -46,6 +46,8 @@
 - Lua (Roblox) - @LarissaGiovanna
 - Julia (EXISTE SIM ESSA LINGUAGEM DE PROGRAMAÇÃO) - @juliatenoriocalado
 - Java -@Karollynesanba
+
+---
 
 ## Empresas do ecossistema (Recife / Porto Digital)
 
