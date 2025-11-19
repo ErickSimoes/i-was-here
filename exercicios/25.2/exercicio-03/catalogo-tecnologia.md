@@ -11,6 +11,7 @@
 - VS Code - exemplo
 - IntelliJ IDEA - exemplo
 - Gato - @mcpr2-prog
+- Arduino IDE - @venici-o
 
 ---
 
@@ -18,6 +19,7 @@
 
 - Git - exemplo
 - Figma - exemplo
+- canva - @lauravi354-github
 
 ---
 
@@ -25,6 +27,7 @@
 
 - GitHub - exemplo
 - GitLab - exemplo
+- Arduino - @marceloandfonseca 
 
 ---
 
@@ -32,7 +35,20 @@
 
 - Python - exemplo
 - JavaScript - exemplo
+- assembly - @JuanRiquelme662
+- PHP (orientada à objetos) - @RiosGabri
 - Go - @phpedruo
+- Java - @bielmalta 
+- C# - @arthurdalmeida
+- Cobol - @doctahW
+- C++ - @Parlatore (Carraly)
+- Assembly (Linguagem de programação de maior nível existente kk) - @pedrovcb
+- c++ - @joaomafraa
+- C++ - @jffn-web
+- C - @beatrizloyola
+- Lua (Roblox) - @LarissaGiovanna
+- Julia (EXISTE SIM ESSA LINGUAGEM DE PROGRAMAÇÃO) - @juliatenoriocalado
+- Java -@Karollynesanba
 
 ---
 
@@ -40,6 +56,11 @@
 
 - CESAR - exemplo
 - CESAR School - exemplo
+- Tempest - @Torzinus (Heitor de Carvalho)
+- neurotech - @eea100
+- Fiap 
+- Tempest - @eduardommb
+- Avanade
 
 ---
 
@@ -47,3 +68,7 @@
 
 - Unity - exemplo
 - React - exemplo
+- GameMaker (engine para jogos 2D) - @ariel-cs
+- Godot 4 - (Godot é um motor de jogo usado para fazer tanto jogos 3d como em 2d. É um motor simples baseado em linguágem C) - @JoseMBNeto
+- Jungle - sofiavillelav@gmail.com
+- Ren'Py - (é uma engine open source de construção de jogos estilo visual novels)
