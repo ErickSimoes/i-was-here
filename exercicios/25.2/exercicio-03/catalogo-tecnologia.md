@@ -36,6 +36,7 @@
 
 - Python - exemplo
 - JavaScript - exemplo
+- Java - @Karollynesanba
 - assembly - @JuanRiquelme662
 - PHP (orientada à objetos) - @RiosGabri
 - Go - @phpedruo
