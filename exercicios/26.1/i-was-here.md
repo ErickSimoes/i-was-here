@@ -4,7 +4,8 @@
 
 > ⚠️ NÃO APAGUE ESTE TEMPLATE! ⬇️
 
-### Seu Nome
+### Nara de Melo Santos
 
-- **Email**: <seu_email@cesar.school>
-- **Repositório**: [Meu repositório da fase 1](link para repositório)
+- **Email**: <nms2@cesar.school>
+- **Repositório**: [Meu repositório da fase 1]
+
