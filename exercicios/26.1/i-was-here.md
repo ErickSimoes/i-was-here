@@ -1,10 +1,10 @@
-# I Was Here
+    # I Was Here
 
-## Deixe aqui a tua marca
+    ## Deixe aqui a tua marca
 
-> ⚠️ NÃO APAGUE ESTE TEMPLATE! ⬇️
+    > ⚠️ NÃO APAGUE ESTE TEMPLATE! ⬇️
 
-### Seu Nome
+    ### Felipe Assis
 
-- **Email**: <seu_email@cesar.school>
-- **Repositório**: [Meu repositório da fase 1](link para repositório)
+    - **Email**: <fafs@cesar.school>
+    - **Repositório**: [Meu repositório da fase 1](https://github.com/felipeassiss/atividades-ic-git-2026-1)
