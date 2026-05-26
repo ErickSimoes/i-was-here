@@ -18,3 +18,7 @@
 
 - **Email**: <jpsm4@cesar.school>
 - **Repositório**: [Meu repositório da fase 1](https://github.com/josuhh/atividades-ic-git-2026-1)
+
+### Pedro Henrique Rego de Azevedo Pinheiro
+- **Email**: <phrap@cesar.school>
+- **Repositório**: [Meu repositório da fase1](https://github.com/pedrohrapinheiro/atividades-ic-git-2026-1)
