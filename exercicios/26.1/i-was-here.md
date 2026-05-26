@@ -4,7 +4,7 @@
 
 > ⚠️ NÃO APAGUE ESTE TEMPLATE! ⬇️
 
-### Seu Nome
+### Thony Barreto
 
-- **Email**: <seu_email@cesar.school>
-- **Repositório**: [Meu repositório da fase 1](link para repositório)
+- **Email**: <tgab@cesar.school>
+- **Repositório**: [Meu repositório da fase 1:](https://github.com/barretu/atividades-ic-git-2026-1)
