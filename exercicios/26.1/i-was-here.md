@@ -18,3 +18,8 @@
 
 - **Email**: <jpsm4@cesar.school>
 - **Repositório**: [Meu repositório da fase 1](https://github.com/josuhh/atividades-ic-git-2026-1)
+
+### Mariana Andrade de Almeida Lopes Luna
+
+- **Email**: <maall@cesar.school>
+- **Repositório**: [Meu repositório da fase 1]<a href="https://github.com/Bleue-Luna/atividades-ic-git-2026-1">Link</a>
