@@ -4,7 +4,7 @@
 
 > ⚠️ NÃO APAGUE ESTE TEMPLATE! ⬇️
 
-### Seu Nome
+### Rafael Freitas
 
-- **Email**: <seu_email@cesar.school>
-- **Repositório**: [Meu repositório da fase 1](link para repositório)
+- **Email**: rrnf@cesar.school
+- **Repositório**: https://github.com/rafaelramf/atividades-ic-git-2026-1.git
