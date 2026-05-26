@@ -25,7 +25,7 @@ Nesta primeira fase, o objetivo é criar o seu próprio repositório, entender o
    - Entre na pasta do projeto:
 
      ```bash
-     cd atividades-git-2026-1
+     cd atividades-ic-git-2026-1
      ```
 
    - Crie um arquivo chamado `meus-aprendizados.txt` e adicione um pequeno texto sobre o que você já aprendeu neste semestre.
