@@ -18,3 +18,8 @@
 
 - **Email**: <jpsm4@cesar.school>
 - **Repositório**: [Meu repositório da fase 1](https://github.com/josuhh/atividades-ic-git-2026-1)
+
+### Sofia Carolina
+
+- **Email**: <scsb@cesar.school>
+- **Repositório**: [Meu repositório da fase 1](https://github.com/hellosofi/atividades-ic-git-2026-1)
