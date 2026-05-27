@@ -33,3 +33,8 @@
 
 - **Email**: <tgab@cesar.school>
 - **Repositório**: [Meu repositório da fase 1:](https://github.com/barretu/atividades-ic-git-2026-1)
+
+### Felipe Assis
+
+- **Email**: <fafs@cesar.school>
+- **Repositório**: [Meu repositório da fase 1](https://github.com/felipeassiss/atividades-ic-git-2026-1)
