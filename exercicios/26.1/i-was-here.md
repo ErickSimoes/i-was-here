@@ -23,3 +23,8 @@
 
 - **Email**: <nms2@cesar.school>
 - **Repositório**: [Meu repositório da fase 1](https://github.com/algaerithm/atividades-ic-git-2026-1)
+
+### João Guilherme de Freitas
+
+- **Email**: <jgfl@cesar.school>
+- **Repositório**: [Meu repositório da fase 1]([link para repositório](https://github.com/ijgfl/atividades-ic-git-2026-1))
