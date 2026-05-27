@@ -38,3 +38,8 @@
 
 - **Email**: <fafs@cesar.school>
 - **Repositório**: [Meu repositório da fase 1](https://github.com/felipeassiss/atividades-ic-git-2026-1)
+
+### Seu Nome
+
+- **Email**: <mmd3@cesar.school>
+- **Repositório**: [Meu repositório da fase 1](https://github.com/m1gu3ldr/atividades-ic-git-2026-1.git)
