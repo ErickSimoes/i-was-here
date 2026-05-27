@@ -38,3 +38,7 @@
 
 - **Email**: <fafs@cesar.school>
 - **Repositório**: [Meu repositório da fase 1](https://github.com/felipeassiss/atividades-ic-git-2026-1)
+
+### Matheus Raulino
+- **Email**: <mrsm@cesar.school>
+- **Repositório**: [Meu repositório da fase 1](https://github.com/matheusraulinoo/atividades-ic-git-2026-1)
