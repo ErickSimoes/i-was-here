@@ -18,3 +18,8 @@
 
 - **Email**: <jpsm4@cesar.school>
 - **Repositório**: [Meu repositório da fase 1](https://github.com/josuhh/atividades-ic-git-2026-1)
+
+### Ana Luiza Carvalho Xavier
+
+- **Email**: <alcx@cesar.school>
+- **Repositório**: https://github.com/Analu-dth/atividades-ic-git-2026-1
