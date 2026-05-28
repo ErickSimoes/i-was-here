@@ -23,3 +23,23 @@
 
 - **Email**: <maall@cesar.school>
 - **Repositório**: [Meu repositório da fase 1]<a href="https://github.com/Bleue-Luna/atividades-ic-git-2026-1">Link</a>
+ 
+### Nara de Melo Santos
+
+- **Email**: <nms2@cesar.school>
+- **Repositório**: [Meu repositório da fase 1](https://github.com/algaerithm/atividades-ic-git-2026-1)
+
+### João Guilherme de Freitas
+
+- **Email**: <jgfl@cesar.school>
+- **Repositório**: [Meu repositório da fase 1]([link para repositório](https://github.com/ijgfl/atividades-ic-git-2026-1))
+
+### Thony Barreto
+
+- **Email**: <tgab@cesar.school>
+- **Repositório**: [Meu repositório da fase 1:](https://github.com/barretu/atividades-ic-git-2026-1)
+
+### Felipe Assis
+
+- **Email**: <fafs@cesar.school>
+- **Repositório**: [Meu repositório da fase 1](https://github.com/felipeassiss/atividades-ic-git-2026-1)
