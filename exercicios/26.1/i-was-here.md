@@ -9,6 +9,8 @@
 - **Email**: <seu_email@cesar.school>
 - **Repositório**: [Meu repositório da fase 1](link para repositório)
 
+### ---------------------------------------------------------------------
+
 ### Rafael Freitas
 
 - **Email**: <rrnf@cesar.school>
@@ -38,3 +40,8 @@
 
 - **Email**: <fafs@cesar.school>
 - **Repositório**: [Meu repositório da fase 1](https://github.com/felipeassiss/atividades-ic-git-2026-1)
+
+### Caio Belmont
+
+- **Email**: <chsb@cesar.school>
+- **Repositório**: [Meu repositório da fase 1](https://github.com/BelmontBeta/atividades-ic-git-2026-1)
