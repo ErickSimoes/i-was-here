@@ -38,3 +38,8 @@
 
 - **Email**: <fafs@cesar.school>
 - **Repositório**: [Meu repositório da fase 1](https://github.com/felipeassiss/atividades-ic-git-2026-1)
+
+### Henrique Carneiro
+
+- **Email**: <jhcl@cesar.school>
+- **Repositório**: [Meu repositório da fase 1](https://github.com/HenriqueCarneiro-dev/atividades-ic-git-2026-1)
