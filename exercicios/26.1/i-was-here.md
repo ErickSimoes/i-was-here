@@ -9,6 +9,11 @@
 - **Email**: <seu_email@cesar.school>
 - **Repositório**: [Meu repositório da fase 1](link para repositório)
 
+### Paulo César Regis de Lima
+
+- **Email**: <pcrl@cesar.school>
+- **Repositório**: [Meu repositório da fase 1](https://github.com/PauloRegisss/atividades-ic-git-2026-1)
+
 ### Rafael Freitas
 
 - **Email**: <rrnf@cesar.school>
