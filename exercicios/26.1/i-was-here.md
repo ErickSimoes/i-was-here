@@ -4,10 +4,10 @@
 
 > ⚠️ NÃO APAGUE ESTE TEMPLATE! ⬇️
 
-### Seu Nome
+### Caio Belmont
 
-- **Email**: <seu_email@cesar.school>
-- **Repositório**: [Meu repositório da fase 1](link para repositório)
+- **Email**: <chsb@cesar.school>
+- **Repositório**: [Meu repositório da fase 1](https://github.com/BelmontBeta/atividades-ic-git-2026-1)
 
 ### Rafael Freitas
 
