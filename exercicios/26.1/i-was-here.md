@@ -24,6 +24,12 @@
 - **Email**: <jpsm4@cesar.school>
 - **Repositório**: [Meu repositório da fase 1](https://github.com/josuhh/atividades-ic-git-2026-1)
 
+<<<<<<< contribuicao-2026-1-SOFIA
+### Sofia Carolina
+
+- **Email**: <scsb@cesar.school>
+- **Repositório**: [Meu repositório da fase 1](https://github.com/hellosofi/atividades-ic-git-2026-1)
+=======
 ### Nara de Melo Santos
 
 - **Email**: <nms2@cesar.school>
@@ -48,3 +54,4 @@
 
 - **Email**: <alcx@cesar.school>
 - **Repositório**: https://github.com/Analu-dth/atividades-ic-git-2026-1
+>>>>>>> main
