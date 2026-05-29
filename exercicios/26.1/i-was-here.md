@@ -17,7 +17,7 @@
 ### Rafael Freitas
 
 - **Email**: <rrnf@cesar.school>
-- **Repositório**: <https://github.com/rafaelramf/atividades-ic-git-2026-1.git>
+- **Repositório**: [Meu repositório da fase 1](https://github.com/rafaelramf/atividades-ic-git-2026-1.git)
 
 ### João Pedro dos Santos Menezes
 
@@ -25,14 +25,15 @@
 - **Repositório**: [Meu repositório da fase 1](https://github.com/josuhh/atividades-ic-git-2026-1)
 
 ### Pedro Henrique Rego de Azevedo Pinheiro
+
 - **Email**: <phrap@cesar.school>
 - **Repositório**: [Meu repositório da fase1](https://github.com/pedrohrapinheiro/atividades-ic-git-2026-1)
 
 ### Mariana Andrade de Almeida Lopes Luna
 
 - **Email**: <maall@cesar.school>
-- **Repositório**: [Meu repositório da fase 1]<a href="https://github.com/Bleue-Luna/atividades-ic-git-2026-1">Link</a>
- 
+- **Repositório**: [Meu repositório da fase 1](https://github.com/Bleue-Luna/atividades-ic-git-2026-1)
+
 ### Sofia Carolina
 
 - **Email**: <scsb@cesar.school>
@@ -46,7 +47,7 @@
 ### João Guilherme de Freitas
 
 - **Email**: <jgfl@cesar.school>
-- **Repositório**: [Meu repositório da fase 1]([link para repositório](https://github.com/ijgfl/atividades-ic-git-2026-1))
+- **Repositório**: [Meu repositório da fase 1](https://github.com/ijgfl/atividades-ic-git-2026-1)
 
 ### Thony Barreto
 
@@ -61,4 +62,4 @@
 ### Ana Luiza Carvalho Xavier
 
 - **Email**: <alcx@cesar.school>
-- **Repositório**: https://github.com/Analu-dth/atividades-ic-git-2026-1
+- **Repositório**: [Meu repositório da fase 1](https://github.com/Analu-dth/atividades-ic-git-2026-1)
