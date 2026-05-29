@@ -9,6 +9,11 @@
 - **Email**: <seu_email@cesar.school>
 - **Repositório**: [Meu repositório da fase 1](link para repositório)
 
+### Carlos Vinicius
+
+- **Email**: <cven@cesar.school>
+- **Repositório**: [Meu repositório da fase 1](https://github.com/carlosvinicius0293-droid/atividade-ic-git-2026-1-vinicius.git)
+
 ### Rafael Freitas
 
 - **Email**: <rrnf@cesar.school>
@@ -24,6 +29,11 @@
 - **Email**: <maall@cesar.school>
 - **Repositório**: [Meu repositório da fase 1]<a href="https://github.com/Bleue-Luna/atividades-ic-git-2026-1">Link</a>
  
+### Sofia Carolina
+
+- **Email**: <scsb@cesar.school>
+- **Repositório**: [Meu repositório da fase 1](https://github.com/hellosofi/atividades-ic-git-2026-1)
+
 ### Nara de Melo Santos
 
 - **Email**: <nms2@cesar.school>
@@ -43,3 +53,8 @@
 
 - **Email**: <fafs@cesar.school>
 - **Repositório**: [Meu repositório da fase 1](https://github.com/felipeassiss/atividades-ic-git-2026-1)
+
+### Ana Luiza Carvalho Xavier
+
+- **Email**: <alcx@cesar.school>
+- **Repositório**: https://github.com/Analu-dth/atividades-ic-git-2026-1
