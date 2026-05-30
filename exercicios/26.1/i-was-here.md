@@ -64,6 +64,11 @@
 - **Email**: <fafs@cesar.school>
 - **Repositório**: [Meu repositório da fase 1](https://github.com/felipeassiss/atividades-ic-git-2026-1)
 
+### Ricardo Marinho do Prado
+
+- Email: <rmp3@cesar.school>
+- Repositorio: [Meu Repositório da fase 1](https://github.com/RickyyDEV/atividades-ic-git-2026-1)
+
 ### Miguel Magalhães Drechsler
 
 - **Email**: <mmd3@cesar.school>
