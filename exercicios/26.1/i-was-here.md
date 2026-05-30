@@ -9,6 +9,11 @@
 - **Email**: <seu_email@cesar.school>
 - **Repositório**: [Meu repositório da fase 1](link para repositório)
 
+### João Carlos Soares Sampaio
+
+- **Email**: <jcss4@cesar.school>
+- **Repositório**: [Meu repositório da fase 1](https://github.com/joaocssampaio/atividades-ic-git-2026-1.git)
+
 ### Carlos Vinicius
 
 - **Email**: <cven@cesar.school>
